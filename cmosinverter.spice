@@ -1,0 +1,5 @@
+* SPICE3 file created from cmosinverter.ext - technology: sky130A
+
+X0 a_110_n1000# a_n20_n760# w_n200_n700# w_n200_n700# sky130_fd_pr__pfet_01v8 ad=1.05 pd=5.2 as=1.05 ps=5.2 w=2.1 l=0.15
+X1 a_110_n1000# a_n20_n760# a_n20_n1170# a_n20_n1170# sky130_fd_pr__nfet_01v8 ad=0.45 pd=2.9 as=0.45 ps=2.9 w=1 l=0.15
+C0 w_n200_n700# a_n20_n1170# 2.14188f **FLOATING
